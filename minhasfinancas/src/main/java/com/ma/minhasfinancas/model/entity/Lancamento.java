@@ -1,6 +1,7 @@
 package com.ma.minhasfinancas.model.entity;
 
 import jakarta.persistence.*;
+import org.springframework.data.annotation.Id;
 import org.springframework.data.convert.Jsr310Converters;
 
 import java.math.BigDecimal;
